@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542793916093",
+    "project_id": "proyectocafeteria-35a56",
+    "storage_bucket": "proyectocafeteria-35a56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542793916093:android:f786ade976b95436e721d4",
+        "android_client_info": {
+          "package_name": "mx.ipn.escom.juareze.proyecto_cafeteria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFMwvpoO7W0C9l3tWVwCfrYe-O_ULk1-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
